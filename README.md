@@ -3,10 +3,6 @@
 Software Developer and Civil Engineer, passionate about algorithms and programming. Member of the Research Group GMC (Geología Matemática y Computacional). The developer of circpacker, co-author and author of two publications.
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aarizat&label=Profile%20views&color=0e75b6&style=flat" alt="aarizat" /> </p>
-
-<p align="left"> <a href="https://twitter.com/aarizatr" target="blank"><img src="https://img.shields.io/twitter/follow/aarizatr?logo=twitter&style=for-the-badge" alt="aarizatr" /></a> </p>
-
 - 🌱 I’m currently learning **Flask, Django, MySQL, Javascript**
 
 - 📝 I regularly write articles on [https://aarizatr.medium.com/](https://aarizatr.medium.com/)

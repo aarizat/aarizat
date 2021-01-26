@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Andres</h1>
+<h1 align="center">Hi 👋, I'm Andrés Ariza</h1>
 
 Software Developer and Civil Engineer, passionate about algorithms and programming. Member of the Research Group GMC (Geología Matemática y Computacional). The developer of circpacker, co-author and author of two publications.
 

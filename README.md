@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Andrés Ariza</h1>
 
-Software Developer and Civil Engineer, passionate about algorithms and programming. Member of the Research Group GMC (Geología Matemática y Computacional). The developer of circpacker, co-author and author of two publications.
+Software Developer and Civil Engineer, passionate about algorithms and programming. Member of the Research Group GMC (Geología Matemática y Computacional). The developer of ```circpacker```, co-author and author of two publications.
+
+I love teaching and sharing my knowledge. An investigator spirit, I love the idea of creating new things with code!
+
+"There is strength in numbers" ---> Teamwork!
 
 
 - 🌱 I’m currently learning **Flask, Django, MySQL, Javascript**

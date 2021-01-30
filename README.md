@@ -9,7 +9,7 @@ I love sharing knowledge and teaching. An investigator spirit, I love the idea o
 
 - 🌱 I’m currently learning **Flask, Django, MySQL, Javascript**
 
-- 📝 I regularly write articles on [https://aarizatr.medium.com/](https://aarizatr.medium.com/)
+- 📝 I started writing on [https://aarizatr.medium.com/](https://aarizatr.medium.com/)
 
 - 💬 Ask me about **Python, C**
 
